@@ -1,0 +1,25 @@
+
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,900,700italic,700,600italic,600,400italic);
+
+
+.diva{
+  display: inline-block;
+  line-height: 1;
+  padding: 3px;
+  font-size: 20px;
+}
+
+span {
+  display: block;
+  font-size: 20px;
+  color: black;
+}
+
+#minutes {
+  font-size: 80px;
+  color: #f07c22;
+}
+#seconds {
+  font-size: 30px;
+  color: #abcd58;
+}
